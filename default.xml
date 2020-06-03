@@ -2,8 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com/"
-           review="https://android-review.googlesource.com/" />
+           fetch="https://android.kaist.ac.kr/" />
   <remote  name="android-imx"
            fetch="https://source.codeaurora.org/external/imx/" />
   <remote  name="boundary-github"
